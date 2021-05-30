@@ -142,7 +142,7 @@ container {
 /* .featured-item:hover, */
 .featured-details span {
   display: block;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 2.5rem;
 }
 .product {
